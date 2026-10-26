@@ -1,8 +1,9 @@
-# OurLand Property
+# OurLand Property — Guided WordPress Project
 
-A custom WordPress property website designed to help visitors explore homes,
-view property information and make enquiries, with a separate management
-workspace for property content and leads.
+A guided custom WordPress project in progress, using a property website to
+practise local setup, theme/plugin integration and site configuration.
+The implementation lets visitors explore homes, view property information and
+make enquiries, with a separate workspace for property content and leads.
 
 ## Technology
 
@@ -11,11 +12,12 @@ plugins.
 
 ## My contribution
 
-Atul Tiwari: custom WordPress implementation, theme and plugin integration,
-reusable section design, animation configuration and property-management
-workflows.
+Atul Tiwari:
 
-## Project features
+- Set up the project in LocalWP and integrated supplied custom theme/plugin files.
+- Followed guided steps to configure pages, property content and the client workspace.
+
+## Implementation features
 
 - Seven editable pages covering the brand, residences, lifestyle and contact.
 - Property listing and detail templates with shared image and text styles.
@@ -33,8 +35,10 @@ production URL.
 
 ## Current status
 
-The local implementation is under review; production deployment and final
-business-flow acceptance remain in progress. A live demo URL will be added
+The guided project is in progress. Learning PHP/JavaScript foundations and
+WordPress theme/plugin structure, reviewing the code and making independent
+changes are ongoing learning goals. Production deployment and final
+business-flow acceptance also remain in progress. A live demo URL will be added
 after deployment and verification.
 
 [Back to project showcase](../../README.md)
