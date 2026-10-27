@@ -17,6 +17,22 @@ styling and responsive layout configuration. OurLand Property documents guided
 LocalWP setup, theme/plugin integration and ongoing custom WordPress
 learning.
 
+## Service introduction / advertisement
+
+- **[Horizontal service introduction — Fiverr](videos/atul-tiwari-wordpress-service-introduction.mp4)**
+  — 45 seconds, 1280 × 720, approximately 2.04 MB.
+- **[Vertical service advertisement — social](videos/atul-tiwari-wordpress-service-ad-vertical.mp4)**
+  — 45 seconds, 720 × 1280, approximately 2.10 MB.
+
+Both show genuine RKSUNEX, Midnight Coffee and Plant Haven screenshot excerpts
+with original presentation motion and music. Mobile images are supplied design
+previews; the video montage does not claim live website interaction. The offer
+covers WordPress/Elementor business websites, landing pages, responsive layouts,
+contact forms, content upload and handover guidance. Open a video file and use
+**Download raw file** to save it. Use the horizontal version for Fiverr's
+landscape gig-video slot; the vertical version is a separately composed social
+ad. These are prepared files, not ads already published or promoted.
+
 These are project presentations with screenshot previews. OurLand Property also
 has a [Latest Preview video](projects/ourland-property/videos/ourland-property-latest-preview.mp4)
 recorded from the current guided WordPress implementation. Live demo URLs will
