@@ -17,6 +17,8 @@ styling and responsive layout configuration. OurLand Property documents guided
 LocalWP setup, theme/plugin integration and ongoing custom WordPress
 learning.
 
-These are project presentations with static previews. Live demo URLs will be
-added after deployment and verification. Tablet and mobile images identified
+These are project presentations with screenshot previews. OurLand Property also
+has a [Latest Preview video](projects/ourland-property/videos/ourland-property-latest-preview.mp4)
+recorded from the current guided WordPress implementation. Live demo URLs will
+be added after deployment and verification. Tablet and mobile images identified
 as mockups represent supplied design previews.

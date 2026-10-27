@@ -27,6 +27,23 @@ Atul Tiwari:
 
 ## Implementation preview
 
+### Latest Preview — video
+
+**[Watch / download OurLand Property — Latest Preview](videos/ourland-property-latest-preview.mp4)**
+
+Recorded on 27 October 2026 from an isolated WordPress installation using the
+current project source. The edited tour shows the seven public pages, a concept
+property photo gallery, scroll-driven animation and a 390px mobile viewport.
+This is a guided implementation preview with illustrative property concepts;
+it is not a production listing or an independently authored-plugin claim.
+
+MP4 · 66 seconds · 1280 × 720 · approximately 12.1 MB. Open the linked file and
+use **Download raw file** to save a local copy for the Fiverr gallery. The video
+has original synthesized background audio and no external links/contact details.
+Fiverr upload acceptance remains subject to its current review process.
+
+### Homepage screenshot
+
 [<img src="screenshots/desktop/ourland-home.png" alt="OurLand Property homepage implementation preview" width="640">](screenshots/desktop/ourland-home.png)
 
 This image is captured from a recorded implementation preview with illustrative
